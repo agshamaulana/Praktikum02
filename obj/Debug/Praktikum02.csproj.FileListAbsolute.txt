@@ -1,0 +1,8 @@
+D:\4823\Praktikum02\bin\Debug\Praktikum02.exe.config
+D:\4823\Praktikum02\bin\Debug\Praktikum02.exe
+D:\4823\Praktikum02\bin\Debug\Praktikum02.pdb
+D:\4823\Praktikum02\obj\Debug\Praktikum02.csproj.AssemblyReference.cache
+D:\4823\Praktikum02\obj\Debug\Praktikum02.csproj.SuggestedBindingRedirects.cache
+D:\4823\Praktikum02\obj\Debug\Praktikum02.csproj.CoreCompileInputs.cache
+D:\4823\Praktikum02\obj\Debug\Praktikum02.exe
+D:\4823\Praktikum02\obj\Debug\Praktikum02.pdb
